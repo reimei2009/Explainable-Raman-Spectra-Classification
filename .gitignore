@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+
+# Generated artifacts and local logs
+logs/
+outputs/
+
+# Raw or bulky datasets
+Data/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
